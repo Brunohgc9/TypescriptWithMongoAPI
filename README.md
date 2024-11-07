@@ -22,4 +22,7 @@ agora basta vc alterar o nome dos arquivos, o modelo do banco de dados (arquivo 
 
 a, o zip do mongosh ta aq tbm
 
+se n funcionar o comando de python rode
+npm install express http-errors mongodb cors @types/express @types/http-errors @types/mongodb @types/cors @types/node
+
 boa sorte!
